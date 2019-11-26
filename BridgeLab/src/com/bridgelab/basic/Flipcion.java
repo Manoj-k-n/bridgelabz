@@ -11,9 +11,7 @@ package com.bridgelab.basic;
 import com.bridgelab.Utility.utility;
 
 public class Flipcion 
-{
-	
-	
+{	
 	public static void main(String[] args) 
 	{
 	  System.out.println("enter the no of times to flip a coin");
