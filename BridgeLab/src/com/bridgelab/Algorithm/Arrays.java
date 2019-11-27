@@ -22,7 +22,5 @@ public static void main(String[] args)
 	s2 = s2.toUpperCase();
 	
 	utility.getArrayequal(s1,s2);
-	
-	
 }
 }
