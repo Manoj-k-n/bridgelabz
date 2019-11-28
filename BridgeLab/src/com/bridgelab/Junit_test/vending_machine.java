@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to get the returned amount through counting the amounts
  version:1.2
  Filename:vending_machine

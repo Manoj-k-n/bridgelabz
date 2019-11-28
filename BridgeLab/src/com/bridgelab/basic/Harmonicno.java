@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to find harmonic numbers
  version:1.2
  Filename:Harmonic

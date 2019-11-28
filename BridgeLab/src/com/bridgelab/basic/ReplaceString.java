@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to replace the name with fullname
  version:1.2
  Filename:ReplaceString

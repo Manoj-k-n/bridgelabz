@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function for Tictac game program
  Filename:Tictac
  Date:19/11/19

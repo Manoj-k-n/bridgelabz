@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to Square root value
  version:1.2
  Filename:Sqrt

@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to find Monthly payment
  version:1.2
  Filename:Monthly_payment

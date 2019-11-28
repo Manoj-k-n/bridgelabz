@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to flip coin using random function
  version:1.2
  Filename:Flipcoin

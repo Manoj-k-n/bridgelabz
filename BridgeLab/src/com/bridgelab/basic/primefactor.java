@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to find the prime factors
  version:1.2
  Filename:prime factor

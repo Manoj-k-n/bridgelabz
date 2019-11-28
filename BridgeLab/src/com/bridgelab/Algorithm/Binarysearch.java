@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to do binary search the word
  version:1.2
  Filename:Binarysearch

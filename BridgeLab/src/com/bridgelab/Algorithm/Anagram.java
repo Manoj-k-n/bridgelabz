@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to check the Anagram 
  version:1.2
  Filename:Anagram

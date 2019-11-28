@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to do for Quadratic functions
  version:1.2
  Filename:Quadratic

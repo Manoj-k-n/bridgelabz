@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to do decimal to binary
  version:1.2
  Filename:Tobin

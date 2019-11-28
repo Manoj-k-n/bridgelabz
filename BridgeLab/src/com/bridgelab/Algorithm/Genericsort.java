@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to do Genericsort for search and sort programs
  version:1.2
  Filename:Genericsort

@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to check the leap year
  version:1.2
  Filename:leapyear

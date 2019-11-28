@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to find the distance using formula
  version:1.2
  Filename:distance

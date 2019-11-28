@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function for Gambler program
  version:1.2
  Filename:Gambler

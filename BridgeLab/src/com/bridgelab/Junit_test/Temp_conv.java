@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to get celsius or temp value
  version:1.2
  Filename:Temp-conv

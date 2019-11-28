@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to check returned by two String arrays are equal
  version:1.2
  Filename:Arrays

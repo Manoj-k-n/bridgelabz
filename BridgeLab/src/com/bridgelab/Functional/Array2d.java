@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to do twodimensional Array
  version:1.2
  Filename:Array2d

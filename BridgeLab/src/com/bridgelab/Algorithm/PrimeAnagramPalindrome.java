@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
 
  purpose:function to find the prime anagram and prime palindrome
  version:1.2

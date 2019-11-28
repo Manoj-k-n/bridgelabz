@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to find the guessed the number
  version:1.2
  Filename:Findno

@@ -1,5 +1,5 @@
 /**
- Author:Subhas
+ Author:Manoj k n
  purpose:function to find day of the week
  version:1.2
  Filename:Dayofweek
