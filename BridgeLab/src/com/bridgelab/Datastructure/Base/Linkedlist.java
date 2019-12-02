@@ -1,6 +1,7 @@
-package com.bridgelab.Datastructure.Base;
+
 /********************************************************************************************
  * Purpose   :Unordered list reusable code with many methods 
+
 
 
  * @author   :Manoj k n 
@@ -8,7 +9,7 @@ package com.bridgelab.Datastructure.Base;
  * @date     :21-11-2019
  * @Filename :LinkedList
  ********************************************************************************************/
-
+package com.bridgelab.Datastructure.Base;
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.FileOutputStream;
@@ -28,6 +29,7 @@ public class Linkedlist<T>
 			this.data=data;
 		}
 	}
+	
 	Node head;
 	Node next;
 

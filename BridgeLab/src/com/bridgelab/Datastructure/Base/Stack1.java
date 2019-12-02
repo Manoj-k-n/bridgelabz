@@ -1,3 +1,11 @@
+/********************************************************************************************
+ * Purpose   :creating StackList
+ * 
+ * @author   :Manoj k n 
+ * @version  :1.0
+ * @date     :21-11-2019
+ * @Filename :Stack
+ ********************************************************************************************/
 package com.bridgelab.Datastructure.Base;
 
 public class Stack1<T extends Comparable<T>> 

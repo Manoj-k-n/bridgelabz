@@ -1,3 +1,11 @@
+/********************************************************************************************
+ * Purpose   :creating  HashingFunction  
+ * 
+ * @author   :Manoj k n 
+ * @version  :1.0
+ * @date     :21-11-2019
+ * @Filename :HashingFunction
+ ********************************************************************************************/
 package com.bridgelab.Datastructure1;
 
 import com.bridgelab.Datastructure.Base.Linkedlist;

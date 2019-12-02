@@ -1,3 +1,11 @@
+/********************************************************************************************
+ * Purpose   :creating  Primeno and find aanagram and store in QueueList              
+ * 
+ * @author   :Manoj k n 
+ * @version  :1.0
+ * @date     :21-11-2019
+ * @Filename :PrimeAnnagramQueue             
+ ********************************************************************************************/
 package com.bridgelab.Datastructure1;
 
 import com.bridgelab.Datastructure.Base.Linkedlist;

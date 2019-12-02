@@ -1,3 +1,11 @@
+/********************************************************************************************
+ * Purpose   :creating  Primeno and store in 2d array             
+ * 
+ * @author   :Manoj k n 
+ * @version  :1.0
+ * @date     :21-11-2019
+ * @Filename :Prime2DArray             
+ ********************************************************************************************/
 package com.bridgelab.Datastructure1;
 
 import com.bridgelab.Utility.utility;
@@ -7,7 +15,7 @@ public class Prime2DArray
 		public static void main(String[] args) 
 		{
 			int array[][]=new int[10][100];
-			int prime[][]=new int[10][100];
+ 			int prime[][]=new int[10][100];
 			int temp=1;
 			for (int i = 0; i< 10; i++) 
 			{
@@ -33,7 +41,7 @@ public class Prime2DArray
 		
 			for (int i[] : prime) {
 				for (int j : i) {
-					if(j!=-1&& j!=1)
+ 					if(j!=-1&& j!=1)
 					{
 						System.out.print(j+" ");
 					}

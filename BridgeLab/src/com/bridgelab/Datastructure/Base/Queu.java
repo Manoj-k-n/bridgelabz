@@ -1,3 +1,11 @@
+/********************************************************************************************
+ * Purpose   :creating QueuList 
+ * 
+ * @author   :Manoj k n 
+ * @version  :1.0
+ * @date     :21-11-2019
+ * @Filename :Queu
+ ********************************************************************************************/
 package com.bridgelab.Datastructure.Base;
 
 public class Queu<T extends Comparable<T>> 
